@@ -1,146 +1,123 @@
-# 🚀 MERN Stack Everything
+# 🚀 MERN Stack Development Journey
 
-Welcome to my **MERN Stack Everything** repository!
+Welcome to my **MERN Stack Development** repository.
 
-This repository contains my complete learning journey in **MERN Stack Development**, from the basics to advanced concepts. I will continuously update this repository with notes, code examples, mini projects, and full-stack applications.
+This repository contains my notes, practice code, exercises, and projects while learning the MERN Stack.
 
 ---
 
-## 📚 Tech Stack
+# 📚 Course Roadmap
 
-### 🌐 Frontend
+## 🌐 HTML, CSS & JavaScript Basics
 - HTML5
 - CSS3
-- JavaScript (ES6+)
-- React.js
-- Bootstrap
-- Tailwind CSS
+- JavaScript Basics
 
-### ⚙️ Backend
-- Node.js
-- Express.js
+## 🎨 Responsive Web Development
+- Flexbox
+- CSS Grid
+- Media Queries
+- Responsive Design
 
-### 🗄️ Database
-- MongoDB
-- Mongoose
-
-### 🛠️ Tools
-- Git & GitHub
-- VS Code
-- Postman
-- npm
-
----
-
-## 📂 Repository Structure
-
-```text
-MERN-STACK-evrething/
-│
-├── javascript/
-├── html/
-├── css/
-├── react/
-├── nodejs/
-├── express/
-├── mongodb/
-├── projects/
-└── README.md
-```
-
----
-
-## 📖 What You'll Learn
-
-### JavaScript
-- Variables
-- Data Types
+## ⚡ JavaScript
+- Variables & Data Types
 - Operators
-- Control Flow
-- Loops
 - Functions
-- Arrays
-- Objects
-- DOM
+- Arrays & Objects
+- Loops
+- DOM Manipulation
 - Events
 - ES6+
 - Async JavaScript
 - Fetch API
 
-### React
+## 🔥 Advanced JavaScript
+- Closures
+- Hoisting
+- Execution Context
+- Event Loop
+- Prototypes
+- OOP
+- Modules
+
+## ⚛️ ReactJS
+- JSX
 - Components
 - Props
 - State
 - Hooks
 - Routing
+- Forms
 - API Integration
+- Context API
 
-### Backend
+## 🛒 Redux Toolkit
+- Store
+- Slice
+- Actions
+- Reducers
+- Async Thunk
+- RTK Query
+
+## 🟦 TypeScript
+- Types
+- Interfaces
+- Functions
+- Classes
+- Generics
+
+## 🖥️ Backend Development
+- Node.js
 - Express.js
-- REST API
-- Authentication
-- JWT
-- CRUD Operations
-
-### Database
 - MongoDB
 - Mongoose
-- Aggregation
-- Relationships
+- REST API
+- CRUD Operations
+- Middleware
+- Authentication
+
+## 🔐 Authentication
+- JWT
+- Refresh Token
+- OTP Verification
+- Password Reset
+
+## 🤖 AI Full Stack Project
+- React
+- Node.js
+- Express
+- MongoDB
+- Gemini API
 
 ---
 
-## 🚀 Projects
+# 🛠️ Tech Stack
 
-- JavaScript Mini Projects
-- Weather App
-- To-Do App
-- Portfolio Website
-- MERN CRUD App
-- Authentication System
-- Full Stack Applications
-
----
-
-## 🎯 Goals
-
-- Master JavaScript
-- Learn React.js
-- Build REST APIs
-- Master MongoDB
-- Complete MERN Stack
-- Build Real-World Projects
-- Become a Full Stack Developer
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Redux Toolkit
+- TypeScript
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
 
 ---
 
-## 📈 Progress
+# 📈 Progress
 
-- ✅ HTML
-- ✅ CSS
-- 🔄 JavaScript
-- ⏳ React
-- ⏳ Node.js
-- ⏳ Express.js
-- ⏳ MongoDB
-- ⏳ Full Stack Projects
-
----
-
-## 🤝 Contributing
-
-Suggestions and feedback are always welcome.
-
-If you like this repository, don't forget to ⭐ Star it!
+- [x] HTML
+- [x] CSS
+- [ ] JavaScript
+- [ ] React.js
+- [ ] Redux Toolkit
+- [ ] TypeScript
+- [ ] Backend
+- [ ] Authentication
+- [ ] AI Project
 
 ---
 
-## 👨‍💻 Author
-
-**Himadri Bera**
-
-- GitHub: https://github.com/HIMADRI1062005
-
----
-
-### ⭐ Happy Coding!
+## ⭐ If you found this repository helpful, don't forget to Star it!
