@@ -110,7 +110,7 @@ This repository contains my notes, practice code, exercises, and projects while 
 
 - [x] HTML
 - [x] CSS
-- [ ] JavaScript
+- [x] JavaScript
 - [ ] React.js
 - [ ] Redux Toolkit
 - [ ] TypeScript
