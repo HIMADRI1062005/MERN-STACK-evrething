@@ -19,7 +19,7 @@ In this repo, I will learn and practice **JavaScript from Basic to Advanced** st
 - Objects ✅
 - control flow ✅
 ### ⚡  Master JavaScript & Become a Real Developer,  Intermediate JS  
-- DOM Manipulation
+- DOM Manipulation✅
 - Events
 - ES6 Features
 - Arrow Functions
