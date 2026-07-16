@@ -56,5 +56,4 @@ In this repo, I will learn and practice **JavaScript from Basic to Advanced** st
  ┣ 📂 Master JavaScript
  ┣ 📂 Advanced js
  ┣ 📂 Placements
- ┣ 📂 Projects
  ┗ 📜 README.md
