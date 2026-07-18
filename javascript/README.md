@@ -39,14 +39,7 @@ In this repo, I will learn and practice **JavaScript from Basic to Advanced** st
 - Modules
 - Error Handling
 
-### 🛠 Projects
-- Calculator
-- To-Do App
-- Weather App
-- Portfolio Projects
-- More Mini Projects
 
----
 
 # 📂 Repository Structure
 
