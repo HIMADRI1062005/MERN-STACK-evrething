@@ -57,8 +57,9 @@
 
 //  change event tab chalta hai jab appka koi input select ya text mein koi change hojaayaaee//
 
-document.querySelector("select");
-self.addEventListener("change", function(dets){
-   console.log(dets);
+let sel =document.querySelector("select");
+let device = document.querySelector("#device");
+self.addEventListener("change", function (dets){
+   device.textContent ="device selected";
 });
  
